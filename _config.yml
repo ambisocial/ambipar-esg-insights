@@ -1,0 +1,17 @@
+title: "ESG Insights Semanal"
+description: "análises aprofundadas de ESG"
+baseurl: "/ambipar-esg-insights"
+url: "https://ambisocial.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+author:
+  name: "Redação ESG Insights Semanal"
+  email: "contato@ambipar-esg-insights.com"
+social:
+  name: ESG Insights Semanal
+  links:
+    - https://github.com/ambisocial/ambipar-esg-insights
