@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "'Não Existe Sustentabilidade sem Planilha': O Modelo de Negócio Ambiental em 6 Perguntas"
-date: 2026-07-07
+date: 2026-07-07 10:33:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Andre Costa
-tags: ["premios-esg", "b-corp", "exame", "sustentabilidade-empresarial"]
 ---
 
 # 'Não existe sustentabilidade sem planilha': O Modelo a empresa em 6 Perguntas
